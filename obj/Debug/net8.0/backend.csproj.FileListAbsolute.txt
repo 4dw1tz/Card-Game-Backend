@@ -31,3 +31,4 @@ C:\Users\adwit\Desktop\Academics\PwC\card-game\backend\obj\Debug\net8.0\refint\b
 C:\Users\adwit\Desktop\Academics\PwC\card-game\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\adwit\Desktop\Academics\PwC\card-game\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\adwit\Desktop\Academics\PwC\card-game\backend\obj\Debug\net8.0\ref\backend.dll
+c:\Users\adwit\Desktop\Academics\PwC\card-game\backend\obj\Debug\net8.0\backend.sourcelink.json
